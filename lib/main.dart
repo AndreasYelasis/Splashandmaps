@@ -73,7 +73,7 @@ class MyApp extends StatelessWidget {
       textStyle: TextStyle(
         fontSize: 45.0,
       ),
-      backgroundColor: Colors.lightBlueAccent,
+      backgroundColor: Colors.red,
     );
 
     return MaterialApp(
