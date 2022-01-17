@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2082996241",
+    "project_id": "timescreenmap1",
+    "storage_bucket": "timescreenmap1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2082996241:android:87794901f8ad5ee20271b0",
+        "android_client_info": {
+          "package_name": "com.example.timerscreen_mapss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2082996241-dbcabu3c5b8m9i40mtindoq1410p5j3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDndhpv_duSGMiGplEcsZzu9m5pUG0_Zi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2082996241-dbcabu3c5b8m9i40mtindoq1410p5j3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
